@@ -1,2 +1,7 @@
 # my-first-ripo
-just testing github
+
+Simple README file for testing GitHub.
+
+## Description
+This repository was created for practice and initial experiments with GitHub.
+
