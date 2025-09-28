@@ -26,3 +26,4 @@ cd my-first-ripo
 # pip install -r requirements.txt
 
 
+s
