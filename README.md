@@ -25,5 +25,5 @@ cd my-first-ripo
 # source venv/bin/activate
 # pip install -r requirements.txt
 
-ss
+ssrtg
 
