@@ -28,4 +28,3 @@ cd my-first-ripo
 ssrf
 s
 x
-e
