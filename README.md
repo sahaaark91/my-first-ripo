@@ -26,5 +26,4 @@ cd my-first-ripo
 # pip install -r requirements.txt
 
 ssrf
-s
-x
+
