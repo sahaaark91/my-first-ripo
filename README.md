@@ -27,4 +27,3 @@ cd my-first-ripo
 
 
 esxdv
-fwse
