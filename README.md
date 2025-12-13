@@ -27,3 +27,4 @@ cd my-first-ripo
 
 
 esxdve
+sxdr
