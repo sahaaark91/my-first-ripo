@@ -27,5 +27,4 @@ cd my-first-ripo
 
 
 esxdve
-sezfxd vxd
-
+sezfxd v
